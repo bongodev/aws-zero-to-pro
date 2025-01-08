@@ -1,4 +1,4 @@
-## **Day 2: IAM Basics**
+# **Day 2: IAM Basics**
 ### Topic: Identity and Access Management (IAM)
 #### Guidelines:
 - Learn how to create users, groups, and roles.

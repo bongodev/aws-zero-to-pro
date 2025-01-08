@@ -1,4 +1,4 @@
-## **Day 4: EC2 Instances**
+# **Day 4: EC2 Instances**
 ### Topic: Elastic Compute Cloud (EC2) Basics
 #### Guidelines:
 - Learn about instance types, AMIs, key pairs, and security groups.

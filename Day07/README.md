@@ -1,4 +1,4 @@
-## **Day 7: Elastic Load Balancer (ELB)**
+# **Day 7: Elastic Load Balancer (ELB)**
 ### Topic: Load Balancing and Scaling
 #### Guidelines:
 - Learn about load balancing concepts and how ELBs distribute traffic.

@@ -1,4 +1,4 @@
-## **Day 6: CloudWatch Basics**
+# **Day 6: CloudWatch Basics**
 ### Topic: Monitoring and Logs with CloudWatch
 #### Guidelines:
 - Learn about CloudWatch metrics, alarms, and logs.

@@ -1,4 +1,4 @@
-## **Day 8: Auto Scaling**
+# **Day 8: Auto Scaling**
 ### Topic: Auto Scaling Groups (ASG)
 #### Guidelines:
 - Understand scaling policies and launch configurations/templates.

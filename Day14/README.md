@@ -1,4 +1,4 @@
-## **Day 14: Final Project**
+# **Day 14: Final Project**
 ### Topic: Elastic Container Service (ECS) and Elastic Container Registry (ECR)
 #### Guidelines:
 - Learn about ECS for container orchestration and ECR for image storage.

@@ -1,4 +1,4 @@
-## **Day 11: API Gateway Basics**
+# **Day 11: API Gateway Basics**
 ### Topic: Building APIs with API Gateway
 #### Guidelines:
 - Learn how to create a REST API using API Gateway.

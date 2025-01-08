@@ -1,4 +1,4 @@
-## **Day 5: AWS CLI**
+# **Day 5: AWS CLI**
 ### Topic: Command Line Interface (CLI)
 #### Guidelines:
 - Install the AWS CLI and configure it with IAM credentials.

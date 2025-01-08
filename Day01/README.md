@@ -1,4 +1,4 @@
-## **Day 1: Introduction to AWS**
+# **Day 1: Introduction to AWS**
 ### Topic: Overview of AWS Services
 #### Guidelines:
 - Understand the AWS Global Infrastructure (Regions, Availability Zones, Edge Locations).

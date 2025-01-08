@@ -1,4 +1,4 @@
-## **Day 12: DynamoDB Basics**
+# **Day 12: DynamoDB Basics**
 ### Topic: NoSQL with DynamoDB
 #### Guidelines:
 - Learn about tables, items, attributes, and primary keys.

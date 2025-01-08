@@ -1,4 +1,4 @@
-## **Day 3: Amazon S3**
+# **Day 3: Amazon S3**
 ### Topic: Simple Storage Service (S3) Basics
 #### Guidelines:
 - Understand buckets, objects, and storage classes.

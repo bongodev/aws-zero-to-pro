@@ -1,4 +1,4 @@
-## **Day 9: RDS Basics**
+# **Day 9: RDS Basics**
 ### Topic: Relational Database Service (RDS)
 #### Guidelines:
 - Learn about managed databases and supported engines (MySQL, PostgreSQL, etc.).

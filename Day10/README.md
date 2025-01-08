@@ -1,4 +1,4 @@
-## **Day 10: Lambda Functions**
+# **Day 10: Lambda Functions**
 ### Topic: Serverless Computing with AWS Lambda
 #### Guidelines:
 - Understand the basics of Lambda and how it integrates with other AWS services.
