@@ -3,7 +3,10 @@
 #### Guidelines:
 - Understand the basics of Lambda and how it integrates with other AWS services.
 - Write a simple Python function and deploy it.
-- [Lambda Documentation](https://docs.aws.amazon.com/lambda/index.html)
 
 #### Challenge:
 - Create a Lambda function that triggers when a file is uploaded to an S3 bucket.
+- Create a LinkedIn post sharing what you’ve learned and your insights to inspire and support the community and fellow AWS enthusiasts.
+
+#### Reference Links:
+- [AWS Lambda Documentation](https://docs.aws.amazon.com/lambda)

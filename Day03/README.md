@@ -3,7 +3,10 @@
 #### Guidelines:
 - Understand buckets, objects, and storage classes.
 - Learn about versioning, lifecycle rules, and bucket policies.
-- [S3 Documentation](https://docs.aws.amazon.com/s3/index.html)
 
 #### Challenge:
 - Create a bucket, upload a file, and make it publicly accessible.
+- Create a LinkedIn post sharing what you’ve learned and your insights to inspire and support the community and fellow AWS enthusiasts.
+
+#### Reference Links:
+- [S3 Documentation](https://docs.aws.amazon.com/s3)
