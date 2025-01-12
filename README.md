@@ -43,7 +43,7 @@ This repository contains AWS Zero To Pro Course Materials
   * [**Day 13: AWS WAF and VPC Peering**](./Day13/README.md)
 
   * [**Day 14: Final Project**](./Day14/README.md)
-* [14DaysOfAWS](./README.md)
+
 
 Cheers 🚀 🚀
 
